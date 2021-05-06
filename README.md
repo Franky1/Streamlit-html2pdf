@@ -31,10 +31,12 @@ Some links to articles and different libraries for html2pdf conversion in Python
 ### More Resources for Markdown to PDF conversion
 
 - <https://stackoverflow.com/questions/4135344/is-there-any-direct-way-to-generate-pdf-from-markdown-file-by-python>
+- <https://stackoverflow.com/questions/54745389/problem-generating-markdown-file-from-python>
 - mdpdf
   - <https://github.com/normanlorrain/mdpdf>
   - <https://pypi.org/project/mdpdf/>
 - md2pdf.py <https://github.com/ljpengelen/markdown-to-pdf>
+- md2pdf <https://github.com/jmaupetit/md2pdf>
 - markdown2pdf <https://github.com/kxxoling/markdown2pdf>
 - pdfkit <https://pypi.org/project/pdfkit/>
 - markdown 
