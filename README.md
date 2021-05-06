@@ -1,14 +1,21 @@
 # Streamlit-html2pdf
 
-Streamlit test project for html2pdf conversion
+Streamlit test project for **html2pdf** conversion
+
+## Status
 
 > WORK IN PROGRESS - NOT FINISHED - DO NOT USE YET
 
+Last changes: 06.05.2021
+
 ## ToDo
 
+- [ ] Update Docker toolchain
+- [ ] Update example project
 - [ ] Test it in Docker environment
 - [ ] Test it in Streamlit sharing
 - [ ] Try other libraries
+- [ ] Add markdown to pdf conversion
 
 ## Resources
 
@@ -20,6 +27,19 @@ Some links to articles and different libraries for html2pdf conversion in Python
 - <https://gearheart.io/blog/how-generate-pdf-files-python-xhtml2pdf-weasyprint-or-unoconv/>
 - <https://elements.heroku.com/buildpacks/jazzcore/python-pdfkit>
 - <https://github.com/JazzCore/python-pdfkit>
+
+### More Resources for Markdown to PDF conversion
+
+- <https://stackoverflow.com/questions/4135344/is-there-any-direct-way-to-generate-pdf-from-markdown-file-by-python>
+- mdpdf
+  - <https://github.com/normanlorrain/mdpdf>
+  - <https://pypi.org/project/mdpdf/>
+- md2pdf.py <https://github.com/ljpengelen/markdown-to-pdf>
+- markdown2pdf <https://github.com/kxxoling/markdown2pdf>
+- pdfkit <https://pypi.org/project/pdfkit/>
+- markdown 
+  - <https://pypi.org/project/Markdown/>
+  - <https://github.com/Python-Markdown/markdown>
 
 ## Docker Runtime
 
